@@ -1,5 +1,16 @@
-# UQCS CodeJam 2022
+# UQCS CodeJam
 
-This repo is an assembly of my solutions to the 2022 CodeJam problems. I came 12th with a total of 301.11 points.
+This repo is an assembly of my solutions to the UQCS CodeJam problems.
+
+## CodeJam 2022 
+
+I came 12th of 79 with a total of 301.11 points.
 
 The hackerrank page for the competition can be found [here](https://www.hackerrank.com/uqcscodejam2022).
+
+## CodeJam 2023
+
+I came 18th of 111 with a total of 334.68 points.
+
+The hackerrank page for the competition can be found [here](https://www.hackerrank.com/uqcs-codejam-2023).
+
