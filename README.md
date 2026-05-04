@@ -22,3 +22,9 @@ I came 13th of 75 with a total of 315.61 points. I used rust for this year's eve
 
 The hackerrank page for the competition can be found [here](https://www.hackerrank.com/uqcs-codejam-2024).
 
+## CodeJam 2026
+
+I came 7th of 36 with a total of 244.38 points. I generally used python for this year's event (with the exception of square roots which referred to using C++ parameters).
+
+The hackerrank page for the competition can be found [here](https://www.hackerrank.com/uqcompsci-codejam-2026).
+
